@@ -14,7 +14,7 @@ const books = [
   'Attitude is Everything',
   'Stories we Never tell',
   'Tale of the Two Cites',
-  'Thanos Tital Consumed',
+  'Thanos - Titan Consumed',
   'Think Like a Monk',
   'A Chirstmas Carol',
   'You Only Live Once',
