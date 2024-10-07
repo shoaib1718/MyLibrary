@@ -1,6 +1,7 @@
 // List of books
 const books = [
   'Ikigai',
+  'I Too Had a Love Stroy',
   'The First Minute',
   'The Happiness Story - Savi Sharma',
   'The Top Five Regrets of the Dying',
