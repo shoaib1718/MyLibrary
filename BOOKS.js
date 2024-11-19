@@ -26,7 +26,8 @@ const books = [
   'Twelfth Fail',
   '8 Rules of Love',
   'Razor Sharp',
-  'Because Life is a Gift'
+  'Because Life is a Gift',
+  'Fountainhead'
 
 ];
 
