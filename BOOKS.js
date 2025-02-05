@@ -1,6 +1,7 @@
 // List of books
 const books = [
   'Ikigai',
+  'The 48 Laws of POWER',
   'I Too Had a Love Stroy',
   'The First Minute',
   'The Happiness Story - Savi Sharma',
@@ -27,8 +28,7 @@ const books = [
   '8 Rules of Love',
   'Razor Sharp',
   'Because Life is a Gift',
-  'Fountainhead',
-  'The 48 Laws of POWER'
+  'Fountainhead'
 
 ];
 
