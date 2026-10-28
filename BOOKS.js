@@ -1,5 +1,6 @@
 // List of books
 const books = [
+  'In the Silence you left Behind',
   'Ikigai',
   'The 48 Laws of POWER',
   'I Too Had a Love Stroy',
